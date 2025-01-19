@@ -1,5 +1,7 @@
 # Projet_Task_Scheduling
 
+Please see "Task_Scheduling_Report.pdf" for an overview of the project and further details.
+
 ////////////Building Instruction//////////////
 
 1. Open the Terminal.
