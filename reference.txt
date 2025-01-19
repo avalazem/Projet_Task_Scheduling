@@ -1,0 +1,68 @@
+///////////////// Reference used for the project//////////
+We couldn't put it on the latex report.
+
+@misc{a2020_graph,
+  month = {05},
+  title = {Graph (discrete mathematics)},
+  url = {https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)},
+  year = {2020},
+  organization = {Wikipedia}
+}
+
+@misc{clrs_topologically,
+  author = {Clrs, },
+  title = {Topologically Sorting a Directed Acyclic Graph},
+  url = {https://tildesites.bowdoin.edu/~ltoma/teaching/cs231/spring16/Lectures/11-topsort/topsort.pdf}
+}
+
+@misc{directed,
+  title = {Directed Acyclic Graphs & Scheduling},
+  url = {https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session17.pdf},
+  organization = {MIT OpenCourseWare}
+}
+
+@misc{a2021_topological,
+  month = {05},
+  title = {Topological sorting},
+  url = {https://en.wikipedia.org/wiki/Topological_sorting},
+  year = {2021},
+  organization = {Wikipedia}
+}
+
+@misc{wu_2020_topological,
+  author = {Wu, Gang},
+  month = {07},
+  title = {Topological Sort of Directed Acyclic Graph | Baeldung on Computer Science},
+  url = {https://www.baeldung.com/cs/dag-topological-sort},
+  year = {2020},
+  organization = {www.baeldung.com}
+}
+
+@misc{gharan_cse,
+  author = {Gharan, Shayan},
+  title = {CSE 421 Topological Ordering / Greedy},
+  url = {https://courses.cs.washington.edu/courses/cse421/18wi/lecture-9-slides.pdf},
+  urldate = {2024-01-14}
+}
+
+@misc{burmeste_topological,
+  author = {Burmeste, },
+  publisher = {Florida State University},
+  title = {Topological Sort},
+  url = {https://www.cs.fsu.edu/~burmeste/slideshow/chapter23/23-4.html},
+  organization = {www.cs.fsu.edu}
+}
+
+@misc{cormen_topological,
+  author = {Cormen, Thomas},
+  publisher = {MIT Press},
+  title = {Topological Sort},
+  url = {https://ocw.snu.ac.kr/sites/default/files/NOTE/Week%2010_5.pdf}
+}
+
+@misc{jeffe_depthfirst,
+  author = {Jeffe, },
+  title = {Depth-First Search},
+  url = {https://jeffe.cs.illinois.edu/teaching/algorithms/book/06-dfs.pdf},
+  organization = {jeffe.cs.illinois.edu}
+}
